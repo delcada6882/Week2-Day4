@@ -1,0 +1,47 @@
+.firstNameForm {
+    font-family: "Plus Jakarta Sans";
+    font-size: 30px;
+}
+.firstNameForm input {
+    height: 35px;
+}
+.lastNameForm {
+    font-family: "Plus Jakarta Sans";
+    font-size: 30px;
+}
+.lastNameForm input {
+    height: 35px;
+}
+.form {
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: center;
+    margin: 13% auto auto auto;
+    width: 380px;
+    vertical-align: middle;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.emailForm {
+    font-family: "Plus Jakarta Sans";
+    font-size: 30px;
+}
+.emailForm input {
+    height: 35px;
+}
+.submit input[type=submit] {
+    font-family: "Plus Jakarta Sans";
+    font-size: 20px;
+    margin-top: 40px;
+    width: 340px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+h1 {
+    font-family: "Plus Jakarta Sans";
+    font-size: 35px;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 30px;
+}
